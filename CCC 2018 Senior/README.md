@@ -6,5 +6,5 @@ Problem J4/S2: Sunflowers (15/15)
 Problem S3: RoboThieves (15/15 with Python2 and 10/15 with Python3)
 
 Notes:
- - Bad comments in S3 because I did not have much time left when I finished it
+ - My S3 looks really messy (use y,x instead of x,y and bad commenting) because of the debugging/rushing
  - The majority of the time was spent making S3 not TLE in Python
