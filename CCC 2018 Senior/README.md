@@ -1,7 +1,5 @@
 Contest can be found at: https://cemc.math.uwaterloo.ca/contests/computing/2018/stage%201/seniorEF.pdf
 
-Within a 3 hour period on July/21/2018 I scored 45 in this contest.
-
 Problems:
  - Problem S1: Voronoi Villages (15/15)
 
